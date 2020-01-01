@@ -1,0 +1,14 @@
+v2.11 Update content(20150803)
+1、	Optimization of key delay processing;
+2、	Optimization display processing;
+3、	Optimization of high temperature alarm;
+4、	Improve the highest voltage of alarm
+5、	The new screen protection function:
+        After a period of time to enter standby interface��screen will shut down.
+        Press button or Mobile iron,the screen will light up automatically.
+6、	Optimization of detect moving.
+
+v2.10 Update content(20150714)
+1、	Bug of the temperature calibration without refresh;
+2、	Cancel Enter the function of the thermometer by USB power.
+
